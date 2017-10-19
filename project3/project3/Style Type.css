@@ -1,0 +1,17 @@
+h1{color: red;}
+h3{color: black;}
+
+
+div{background-color: black;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+
+.box1{background-color: black;
+	  width: 200px;
+	  height: 200px;
+	  position: absolute;
+
+}
