@@ -783,8 +783,8 @@
 	width: 30px;
 	height: 60px;
 	position: absolute;
-	top: 890px;
-	left: 610px;
+	top: 889px;
+	left: 618px;
 	border: 4px solid red;
 	border-right: solid red;
 	border-top: solid red;
@@ -826,7 +826,7 @@
 .boxs4{
 	background-color: transparent;
 	width: 20px;
-	height: 90px;
+	height: 92px;
 	position: absolute;
 	top: 1030px;
 	left: 570px;
@@ -839,10 +839,10 @@
 .boxs5{
 	background-color: white;
 	width: 20px;
-	height: 102px;
+	height: 109px;
 	position: absolute;
-	top: 1015px;
-	left: 573px;
+	top: 1010px;
+	left: 572px;
 	border: 4px solid transparent;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -852,11 +852,11 @@
 .boxs6{
 	background-color: transparent;
 	width: 20px;
-	height: 40px;
+	height: 50px;
 	position: absolute;
 	top: 1030px;
 	left: 570px;
-	border: 4px solid red;
+	border: 4px solid transparent;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-bottom: solid transparent;
@@ -864,11 +864,11 @@
 
 .boxs7{
 	background-color: transparent;
-	width: 105px;
-	height: 30px;
+	width: 107px;
+	height: 36px;
 	position: absolute;
-	top: 1096px;
-	left: 594px;
+	top: 1092px;
+	left: 590px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -878,10 +878,10 @@
 .boxs8{
 	background-color: transparent;
 	width: 105px;
-	height: 70px;
+	height: 72px;
 	position: absolute;
-	top: 1057px;
-	left: 639px;
+	top: 1056px;
+	left: 640px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -891,10 +891,10 @@
 .boxs9{
 	background-color: transparent;
 	width: 105px;
-	height: 40px;
+	height: 45px;
 	position: absolute;
-	top: 907px;
-	left: 640px;
+	top: 905px;
+	left: 636px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -903,12 +903,12 @@
 
 .boxs10{
 	background-color: transparent;
-	width: 20px;
-	height: 40px;
+	width: 19px;
+	height: 42px;
 	position: absolute;
-	top: 915px;
-	left: 631px;
-	border: 4px solid red;
+	top: 919px;
+	left: 640px;
+	border: 5px solid red;
 	border-right: solid red;
 	border-top: solid red;
 	border-left: solid transparent;
@@ -948,7 +948,7 @@
 	height: 90px;
 	position: absolute;
 	top: 902px;
-	left: 600px;
+	left: 602px;
 	border: 4px solid red;
 	border-right: solid red;
 	border-top: solid red;
@@ -982,7 +982,6 @@
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-bottom: solid transparent;
-
 }
 
 .name{
