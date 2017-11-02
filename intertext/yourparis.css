@@ -1,0 +1,75 @@
+/*.excerpt1{
+	position: absolute;
+	width: 200px;
+	color: black;
+	left: 20px;
+	top: 30px;
+	text-align: left;
+	font-family: 'Crimson Text', serif;
+}
+
+.excerpt2{
+	position: absolute;
+	width: 200px;
+	color: black;
+	left: 20px;
+	top: 310px;
+	text-align: left;
+	font-family: 'Crimson Text', serif;
+}
+*/
+.a1{
+	color: white;
+	text-decoration: underline;
+}
+
+.a2{
+	color: white;
+	text-decoration: underline;
+}
+
+.a3{
+	color: white;
+	text-decoration: underline;
+}
+
+.excerpt3{
+	position: absolute;
+	width: 250px;
+	color: black;
+	left: 75px;
+	top: 150px;
+	text-align: left;
+	font-family: 'Crimson Text', serif;
+	font-size: 23px;
+	height: 68%;
+	overflow-x: scroll;
+}
+
+.img{
+	position: absolute;
+	left: 350px;
+	top: 150px;
+	opacity: .5;
+}
+
+.hate{
+	position: absolute;
+	width: 400px;
+	color: rgb(117,12,4);
+	left: 900px;
+	top: 250px;
+	text-align: center;
+	font-family: 'Crimson Text' serif;
+	font-size: 100px;
+	height: 40%;
+	overflow-x: scroll;
+}
+
+.back{
+	position: absolute;
+	left: 20px;
+	top: 1000px;
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+}

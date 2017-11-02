@@ -1,0 +1,85 @@
+.Backstory{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	font-family: 'Crimson Text', serif;
+	font-size: 60px;
+}
+
+.Sylvia{
+	position: absolute;
+	left: 20px;
+	top: 110px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+
+.SylviaStory{
+	position: absolute;
+	left: 20px;
+	top: 155px;
+	font-family: 'Raleway', serif;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.sylviaimage{
+	position: absolute;
+	top: 110px;
+	left: 750px;
+}
+
+.Ted{
+	position: absolute;
+	left: 20px;
+	top: 485px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+
+.TedStory{
+	position: absolute;
+	left: 20px;
+	top: 533px;
+	font-family: 'Raleway', serif;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.tedimage{
+		position: absolute;
+		left: 750px;
+		top: 452px;
+}
+
+.Relationship{
+	position: absolute;
+	left: 20px;
+	top: 885px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+
+.RelationshipStory{
+	position: absolute;
+	left: 20px;
+	top: 930px;
+	font-family: 'Raleway', serif;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.relationshipimage{
+	position: absolute;
+	left: 750px;
+	top: 790px;
+}
+
+.back{
+	position: absolute;
+	left: 20px;
+	top: 1150px;
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+}
+

@@ -1,0 +1,36 @@
+a{
+	color: gray;
+	text-decoration: none;
+}
+
+.title{
+	position: absolute;
+	left: 580px;
+	top: 100px;
+	font-family: 'Crimson Text', serif;
+	font-size: 80px;
+}
+
+.title2{
+	position: absolute;
+	left: 530px;
+	top: 185px;
+	font-family: 'Crimson Text', serif;
+	font-size:80px;
+}
+
+.backstory{
+	position: absolute;
+	left: 675px;
+	top: 400px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+
+.enter{
+	position: absolute;
+	left: 687px;
+	top: 550px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}

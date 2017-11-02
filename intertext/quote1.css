@@ -1,0 +1,58 @@
+.a{color: gray;
+	text-decoration: none;
+
+}
+
+.ted{
+	position: absolute;
+	left: 20px;
+	top: 50px;
+	width: 400px;
+	font-family: 'Crimson Text', serif;
+	font-size:30px;
+	text-align: left;
+}
+
+.box1{ 
+	background-color: black;
+	width: 7px;
+	height: 580px;
+	position: absolute;
+	top: -25px;  
+	left: 210px;
+	transform: rotate(45deg);
+ }
+
+.s2{
+	position: absolute;
+	color: red;
+	left: 20px;
+	top: 32px;
+	width: 400px;
+	font-family: 'Raleway', serif;
+	font-size: 131px;
+	text-align: left;
+	opacity: 40deg;
+}
+
+.sylvia{
+	position: absolute;
+	left: 600px;
+	top: 50px;
+	width: 800px;
+	font-family: 'Raleway', serif;
+	font-size: 70px;
+	text-align: right;
+}
+
+.bold{
+	color: red;
+}
+
+.back{
+	position: absolute;
+	left: 20px;
+	top: 100px;
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+}
