@@ -1,3 +1,16 @@
+a{
+	text-decoration: none;
+	color: rgb(164,25,15);
+}
+
+.back{
+	position: absolute;
+	left: 20px;
+	top: 790px;
+	font-family: 'Crimson Text', serif
+	font-size: 20px;
+}
+
 .ted{
 	position: absolute;
 	left: 20px;
@@ -20,14 +33,15 @@
 
 .s2{
 	position: absolute;
-	color: red;
-	left: 18px;
-	top: 32px;
+	color: rgb(164,25,15);
+	left: 10px;
+	top: 34px;
 	width: 400px;
 	font-family: 'Raleway', serif;
-	font-size: 124px;
+	font-size: 123px;
 	text-align: left;
 	opacity: 40deg;
+	font-weight: bold;
 }	
 
 .sylvia{
@@ -41,12 +55,5 @@
 }
 
 .bold{
-	color: red;
-}
-.back{
-	position: absolute;
-	left: 20px;
-	top: 750px;
-	font-family: 'Crimson Text', serif;
-	font-size: 20px;
+	color: rgb(164,25,15);
 }

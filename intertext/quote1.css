@@ -1,6 +1,10 @@
-.a{color: gray;
-	text-decoration: none;
-
+.back{
+	position: absolute;
+	left: 20px;
+	top: 400px;
+	font-family: 'Crimson Text', serif
+	font-size: 20px;
+	color: rgb(164,25,15);
 }
 
 .ted{
@@ -11,6 +15,7 @@
 	font-family: 'Crimson Text', serif;
 	font-size:30px;
 	text-align: left;
+	color: black;
 }
 
 .box1{ 
@@ -25,14 +30,15 @@
 
 .s2{
 	position: absolute;
-	color: red;
+	color: rgb(164,25,15);
 	left: 20px;
-	top: 32px;
+	top: 34px;
 	width: 400px;
 	font-family: 'Raleway', serif;
-	font-size: 131px;
+	font-size: 129px;
 	text-align: left;
 	opacity: 40deg;
+	font-weight: bold;
 }
 
 .sylvia{
@@ -46,13 +52,6 @@
 }
 
 .bold{
-	color: red;
+	color: rgb(164,25,15);
 }
 
-.back{
-	position: absolute;
-	left: 20px;
-	top: 100px;
-	font-family: 'Crimson Text', serif;
-	font-size: 20px;
-}

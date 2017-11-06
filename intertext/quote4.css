@@ -1,32 +1,50 @@
+a{
+	text-decoration: none;
+	color: rgb(164,25,15);
+}
+
+
+
+.this{
+	position: absolute;
+	left: 50px;
+	top: -80px;
+	font-family: 'Raleway', serif;
+	font-size: 700px;
+	color: rgb(164,25,15);
+}
+
 .sylvia{
 	position: absolute;
-	left:350px;
-	top: 50px;
-	width: 700px;
+	left:93px;
+	top: 600px;
+	width: 1300px;
 	font-family: 'Raleway', serif;
-	font-size: 75px;
-	text-align: center;
+	font-size: 50px;
+	text-align: left;
+	line-height: 100px;
 }
 
-.e1{
-	font-size: 150px;
+.face2{
+	position: absolute;
+	top: 67px;
+	left: 500px;
+	opacity: 0;
 }
 
-.e2{
-	font-size: 250px;
-}
-
-.e3{
-	font-weight: bold;
+.face2:hover{
+	opacity: .5;
+	transition: 1s linear;
 }
 
 .back{
 	position: absolute;
 	left: 20px;
-	top: 2000px;
+	top: 1200px;
 	font-family: 'Crimson Text', serif;
 	font-size: 20px;
 }
+
 
 
 

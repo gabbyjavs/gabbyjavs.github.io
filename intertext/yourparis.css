@@ -18,27 +18,52 @@
 	font-family: 'Crimson Text', serif;
 }
 */
+
+a{
+	text-decoration: none;
+	color: rgb(164,25,15);
+}
+
+.yourparis{
+	position: absolute;
+	color: rgb(164,25,15);
+	top: -67px;
+	left: 75px;
+	font-family: 'Crimson Text', serif;
+	font-size: 200px;
+}
+
+.teddy{
+	position: absolute;
+	color: rgb(164,25,15);
+	text-decoration-line: 10px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+	top: 740px;
+	left: 1198px;
+}
+
 .a1{
-	color: white;
-	text-decoration: underline;
+	color: rgb(164,25,15);
+	font-weight: bold;
 }
 
 .a2{
-	color: white;
-	text-decoration: underline;
+	color: rgb(164,25,15);
+	font-weight: bold;
 }
 
 .a3{
-	color: white;
-	text-decoration: underline;
+	color: rgb(164,25,15);
+	font-weight: bold;
 }
 
 .excerpt3{
 	position: absolute;
 	width: 250px;
 	color: black;
-	left: 75px;
-	top: 150px;
+	left: 85px;
+	top: 170px;
 	text-align: left;
 	font-family: 'Crimson Text', serif;
 	font-size: 23px;
@@ -49,27 +74,33 @@
 .img{
 	position: absolute;
 	left: 350px;
-	top: 150px;
-	opacity: .5;
+	top: 170px;
+	opacity: 0.5;
 }
 
 .hate{
 	position: absolute;
 	width: 400px;
-	color: rgb(117,12,4);
-	left: 900px;
-	top: 250px;
+	color: transparent;
+	left: 910px;
+	top: 270px;
 	text-align: center;
 	font-family: 'Crimson Text' serif;
 	font-size: 100px;
 	height: 40%;
 	overflow-x: scroll;
+
+}
+
+.hate:hover{
+	color: rgb(164,25,15);
+	transition: color 1s linear;
 }
 
 .back{
 	position: absolute;
 	left: 20px;
-	top: 1000px;
+	top: 790px;
 	font-family: 'Crimson Text', serif;
 	font-size: 20px;
 }

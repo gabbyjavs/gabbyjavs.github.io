@@ -1,36 +1,58 @@
 a{
-	color: gray;
+	color: black;
+	opacity: .7;
 	text-decoration: none;
+}
+
+.two{
+	position: absolute;
+	top: 140px;
+	left: 130px;
+	opacity: .5;
 }
 
 .title{
 	position: absolute;
-	left: 580px;
-	top: 100px;
+	left: 565px;
+	top: 240px;
 	font-family: 'Crimson Text', serif;
 	font-size: 80px;
+	opacity: .5;
 }
 
 .title2{
 	position: absolute;
-	left: 530px;
-	top: 185px;
+	left: 510px;
+	top: 320px;
 	font-family: 'Crimson Text', serif;
 	font-size:80px;
+	opacity: .5;
 }
 
 .backstory{
 	position: absolute;
-	left: 675px;
-	top: 400px;
+	left: 540px;
+	top: 620px;
 	font-family: 'Crimson Text', serif;
 	font-size: 30px;
+	color: rgb(164,25,15);
 }
 
 .enter{
 	position: absolute;
-	left: 687px;
-	top: 550px;
+	left: 770px;
+	top: 620px;
 	font-family: 'Crimson Text', serif;
 	font-size: 30px;
+	color: rgb(164,25,15);
+}
+
+.separate{
+	position: absolute;
+	left: 713px;
+	top: 620px;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+	color: rgb(164,25,15);
+
 }
