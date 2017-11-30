@@ -1,0 +1,237 @@
+font-family: 'Open Sans', sans-serif;
+.box{
+	position: absolute;
+}
+
+.usa{
+	position: absolute;
+	top: 18px;
+	left: 275px;
+	font-family: Helvetica;
+	font-size: 170px;
+	font-weight: bold;
+	color: rgb(250,194,9);
+}
+
+.logo{
+	position: absolute;
+	top: 20px;
+	left: 40px;
+}
+
+.logo2{
+	position: absolute;
+	top: 20px;
+	left: 1190px;
+}
+
+.box1{
+	position: absolute;
+	left: 60px;
+	width: 20px;
+	height: 100px;
+	color: rgb(243, 176, 18);
+}
+
+.interior1{
+	position: absolute;
+	left: 0px;
+	top: 270px;
+}
+
+.interior2{
+	position: absolute;
+	left: 400px;
+	top: 270px;
+}
+
+.interior3{
+	position: absolute;
+	left: 1038px;
+	top: 678px;
+}
+
+.interior4{
+	position: absolute;
+	left: 638px;
+	top: 678px;
+}
+
+.food1{
+	position: absolute;
+	left: 0px;
+	top: 1086px;
+}
+
+.food2{
+	position: absolute;
+	left: 400px;
+	top: 1086px;
+}
+
+.ad{
+	position: absolute;
+	left: 638px;
+	top: 1494px;
+}
+
+.event1{
+	position: absolute;
+	left: 1038px;
+	top: 1494px;
+}
+
+.home{
+	position: absolute;
+	top: 2250px;
+	left: 30px;
+	font-family: Helvetica;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.box11{
+	position: absolute;
+	top: 2246px;
+	left: 23px;
+	width: 140px;
+	height: 30px;
+	color: rgb(250,194,9);
+	background-color: rgb(229,60,41);
+}
+
+.box2{
+	position: absolute;
+	background-color: rgb(250,194,9);
+	width: 1438px;
+	height: 8px;
+	top: 1894px;
+	left: 0px;
+}
+
+.box3{
+	position: absolute;
+	background-color: rgb(250,194,9);
+	width: 1438px;
+	height: 8px;
+	top: 265px;
+	left: 0px;
+}
+
+.box4{
+	position: absolute;
+	background-color: rgb(250,194,9);
+	width: 1438px;
+	height: 8px;
+	top: 670px;
+	left: 0px;
+}
+
+.box6{
+	position: absolute;
+	background-color: rgb(250,194,9);
+	width: 1438px;
+	height: 8px;
+	top: 2168px;
+	left: 0px;
+}
+
+.explore{
+	position: absolute;
+	top: 1913px;
+	left: 480px;
+	font-family: helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: rgb(250,194,9);
+}
+
+.more{
+	position: absolute;
+	top: 1990px;
+	left: 477px;
+	font-family: helvetica;
+	font-size: 163px;
+	font-weight: bold;
+	color: rgb(250,194,9);
+}
+
+.box8{
+	position: absolute;
+	background-color: rgb(250,194,9);
+	width: 1438px;
+	height: 8px;
+	top: 1078px;
+	left: 0px;
+}
+
+.box9{
+	position: absolute;
+	background-color: rgb(250,194,9);
+	width: 1438px;
+	height: 8px;
+	top: 1486px;
+	left: 0px;
+}
+
+.exterior{
+	position: absolute;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgb(250,194,9);
+	top: 400px;
+	left: 930px;
+}
+
+.interior{
+	position: absolute;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgb(250,194,9);
+	top: 800px;
+	left: 140px;
+}
+
+.food{
+	position: absolute;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgb(250,194,9);
+	top: 1220px;
+	left: 1010px;
+}
+
+.ad1{
+	position: absolute;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgb(250,194,9);
+	top: 1605px;
+	left: 240px;
+}
+
+.canada{
+	position: absolute;
+	top: 1935px;
+	left: 100px;
+	font-family: Helvetica;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.germany{
+	position: absolute;
+	top: 1935px;
+	left: 1150px;
+	font-family: Helvetica;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+
+
+
