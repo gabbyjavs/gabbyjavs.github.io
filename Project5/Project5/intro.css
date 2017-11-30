@@ -1,0 +1,241 @@
+font-family: 'Open Sans', sans-serif;
+
+body {
+	background-color: rgb(229,60,41);
+}
+
+div {
+	text-decoration: none;
+}
+
+.logo{
+	position: absolute;
+	top: 25px;
+	left: 500px;
+}
+
+.box1{
+	position: absolute;
+}
+
+.usa{
+	position: absolute;
+	top: 540px;
+	left: 615px;
+}
+
+.usabox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	opacity: 0px;
+	top: 50px;
+	left: 120px;
+}
+
+.usabox{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.russia{
+	position: absolute;
+	top: 540px;
+	left: 15px;
+}
+
+.russiabox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	top: 50px;
+	left: 448px;
+}
+
+.russiabox:hover{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.germany{
+	position: absolute;
+	top: 540px;
+	left: 215px;
+}
+
+.germanybox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	top: 50px;
+	left: 790px;
+}
+
+.germanybox:hover{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.italy{
+	position: absolute;
+	top: 540px;
+	left: 415px;
+}
+
+.italybox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	top: 700px;
+	left: 1200px;
+}
+
+.italybox:hover{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.portugal{
+	position: absolute;
+	top: 540px;
+	left: 815px;
+}
+
+.portugalbox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	top: 00px;
+	left: 200px;
+}
+
+.portugalbox:hover{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.canada{
+	position: absolute;
+	top: 540px;
+	left: 1015px;
+}
+
+.canadabox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	top: 560px;
+	left: 650px;
+}
+
+.canadabox:hover{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.china{
+	position: absolute;
+	top: 540px;
+	left: 1215px;
+}
+
+.chinabox{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	top: 560px;
+	left: 975px;
+}
+
+.chinabox:hover{
+	color: gray;
+	opacity: 50%;
+	transition: all 1s linear; 
+}
+
+.explore{
+	position: absolute;
+	top: 435px;
+	left: 190px;
+	font-family: helvetica;
+	font-size: 90px;
+	font-weight: bold;
+	color: white;
+}
+
+
+
+.box10{
+	position: absolute;
+	background-color: rgb(243, 176, 19);
+	width: 1440px;
+	height: 50px;
+	top: 0px;
+	left: 0px;
+}
+
+
+.usaflag{
+	position: absolute;
+	top: 745px;
+	left: 680px;
+}
+
+.italyflag{
+	position: absolute;
+	top:745px;
+	left: 480px;
+}
+
+.chinaflag{
+	position: absolute;
+	top: 745px;
+	left: 1280
+}
+
+.canadaflag{
+	position: absolute;
+	top: 745px;
+	left: 1070px;
+}
+
+.germanyflag{
+	position: absolute;
+	top: 745px;
+	left: 280px;
+}
+
+.russiaflag{
+	position: absolute;
+	top: 745px;
+	left: 80px;
+}
+
+.portugalflag{
+	position: absolute;
+	top: 745px;
+	left: 880px;
+}
+
+.home{
+	position: absolute;
+	text-decoration: none;
+	left: 15px;
+	top: 12px;
+	font-family: Helvetica;
+	color: rgb(243, 176, 19);
+	font-weight: bold;
+	font-size: 25px;
+}
