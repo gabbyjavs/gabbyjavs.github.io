@@ -1,0 +1,77 @@
+.box10{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 0px;
+	left: 0px;
+	color: rgb(250,194,9);
+}
+
+
+.title{
+	position: absolute;
+	top: 358px;
+	left: 10px;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 100px;
+	text-decoration: none;
+	color: rgb(250,194,9);
+}
+
+.title:hover{
+	color: rgb(243, 176, 19);
+	transition: color 2s linear
+}
+
+.paragraph{
+	position: absolute;
+	top: 475px;
+	width: 690px;
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	left: 10px;
+	color: white;
+	font-family: georgia;
+}
+
+.paragraph2{
+	position: absolute;
+	top: 660px;
+	width: 690px;
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	left: 10px;
+	color: white;
+	font-family: georgia;
+}
+
+.logo{
+	position: absolute;
+	top: 310px;
+	left: 780px;
+}
+
+.explore{
+	position: absolute;
+	top: 800px;
+	left: 10px;
+	font-family: helvetica;
+	text-decoration: none;
+	text-decoration-line: none;
+	text-decoration-style: none;
+	color: rgb(250,194,9)
+}
+
+.boxx1{
+	position: absolute;
+	width: 200px;
+	height: 10px;
+	background-color: rgb(250,194,9);
+	top: 800px;
+	left: 1280px;
+}
+
+
