@@ -24,21 +24,6 @@ div {
 	left: 615px;
 }
 
-.usabox{
-	position: absolute;
-	width: 200px;
-	height: 200px;
-	opacity: 0px;
-	top: 50px;
-	left: 120px;
-}
-
-.usabox{
-	color: gray;
-	opacity: 50%;
-	transition: all 1s linear; 
-}
-
 .russia{
 	position: absolute;
 	top: 540px;
