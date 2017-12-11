@@ -1,35 +1,28 @@
-
 .assignment{
-	font-family: Arial;
-	font-size: 35px;
-	position: absolute;
-	left: 35px;
-	line-height: -250px;
-}
-.project{
-	font-family: Arial;
-	font-size: 25px;
+	font-family: 'Lora', serif;
+	font-size: 70px;
 	position: absolute;
 	left: 35px;
 	line-height: -200px;
-}
-
-.fontname{
-	font-family: Arial;
-	font-size: 25px;
-	text-decoration: underline;
-	position: absolute;
-	left: 35px;
-	line-height: 55px;
 	color: red;
 }
 
-.description{
-	font-family: Arial;
-	font-size: 20px;
+.fontname{
+	font-family: 'Lora', serif;
+	font-size: 70px;
 	position: absolute;
 	left: 35px;
-	line-height: 33px;
+	top: 20px;
+	line-height: 45px;
+}
+
+.description{
+	font-family: 'Lora', serif;
+	font-size: 15px;
+	position: absolute;
+	left: 35px;
+	top: 165px;
+	line-height: 28px;
 }
 
 .box1{
@@ -38,7 +31,7 @@
 	height: 200px;
 	position: absolute;
 	top: 307px;
-	left: 196px;
+	left: 696px;
 	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -51,7 +44,7 @@
 	height: 200px;
 	position: absolute;
 	top: 307px;
-	left: 230px;
+	left: 730px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -64,7 +57,7 @@
 	height: 200px;
 	position: absolute;
 	top: 307px;
-	left: 184px;
+	left: 684px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -77,7 +70,7 @@
 	height: 200px;
 	position: absolute;
 	top: 104px;
-	left: 183px;
+	left: 683px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -91,7 +84,7 @@
 	height: 60px;
 	position: absolute;
 	top: 308px;
-	left: 152px;
+	left: 652px;
 	border: 4px solid red;
 	border-top: solid transparent;
 	border-bottom: solid transparent;
@@ -105,7 +98,7 @@
 	height: 80px;
 	position: absolute;
 	top: 307px;
-	left: 170px;
+	left: 670px;
 	border: 4px solid red;
 	border-top: solid transparent;
 	border-bottom: solid transparent;
@@ -118,7 +111,7 @@
 	height: 200px;
 	position: absolute;
 	top: 248px;
-	left: 230px;
+	left: 730px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -131,7 +124,7 @@
 	height: 200px;
 	position: absolute;
 	top: 445px;
-	left: 190px;
+	left: 690px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -146,7 +139,7 @@
 	height: 200px;
 	position: absolute;
 	top: 307px;
-	left: 315px;
+	left: 815px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -159,7 +152,7 @@
 	height: 200px;
 	position: absolute;
 	top: 429px;
-	left: 192px;
+	left: 692px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -173,7 +166,7 @@
 	height: 100px;
 	position: absolute;
 	top: 308px;
-	left: 300px;
+	left: 800px;
 	border: 4px solid red;
 	border-right: solid red;
 	border-top: solid red;
@@ -183,11 +176,11 @@
 
 .boxa1{
 	background-color: transparent;
-	width: 90px;
+	width: 75px;
 	height: 200px;
 	position: absolute;
 	top: 309px;
-	left: 447px;
+	left: 961px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -196,12 +189,12 @@
 
 .boxa2{
 	background-color: transparent;
-	width: 233px;
+	width: 235px;
 	height: 190px;
 	position: absolute;
-	top: 369px;
-	left: 510px;
-	border: 4px solid red;
+	top: 368px;
+	left: 1010px;
+	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-left: solid transparent;
@@ -214,7 +207,7 @@
 	height: 200px;
 	position: absolute;
 	top: 391px;
-	left: 582px;
+	left: 1082px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -228,7 +221,7 @@
 	height: 200px;
 	position: absolute;
 	top: 282px;
-	left: 505px;
+	left: 1005px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -242,7 +235,7 @@
 	height: 200px;
 	position: absolute;
 	top: 370px;
-	left: 550px;
+	left: 1050px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -256,7 +249,7 @@
 	height: 200px;
 	position: absolute;
 	top: 307px;
-	left: 653px;
+	left: 1153px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -269,7 +262,7 @@
 	height: 200px;
 	position: absolute;
 	top: 440px;
-	left: 602px;
+	left: 1102px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -283,7 +276,7 @@
 	height: 200px;
 	position: absolute;
 	top: 405px;
-	left: 490px;
+	left: 990px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -297,7 +290,7 @@
 	height: 200px;
 	position: absolute;
 	top: 308px;
-	left: 674px;
+	left: 1174px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -311,7 +304,7 @@
 	height: 200px;
 	position: absolute;
 	top: 440px;
-	left: 579px;
+	left: 1079px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -325,7 +318,7 @@
 	height: 200px;
 	position: absolute;
 	top: 285px;
-	left: 602px;
+	left: 1102px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -339,7 +332,7 @@
 	height: 200px;
 	position: absolute;
 	top: 600px;
-	left: 196px;
+	left: 696px;
 	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -352,7 +345,7 @@
 	height: 200px;
 	position: absolute;
 	top: 600px;
-	left: 233px;
+	left: 733px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -365,7 +358,7 @@
 	height: 200px;
 	position: absolute;
 	top: 599px;
-	left: 183px;
+	left: 683px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -378,7 +371,7 @@
 	height: 200px;
 	position: absolute;
 	top: 396px;
-	left: 183px;
+	left: 683px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -390,8 +383,8 @@
 	width: 170px;
 	height: 200px;
 	position: absolute;
-	top: 634px;
-	left: 134px;
+	top: 632px;
+	left: 635px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -405,7 +398,7 @@
 	height: 200px;
 	position: absolute;
 	top: 600px;
-	left: 375px;
+	left: 875px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -418,7 +411,7 @@
 	height: 200px;
 	position: absolute;
 	top: 600px;
-	left: 323px;
+	left: 823px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -431,7 +424,7 @@
 	height: 133px;
 	position: absolute;
 	top: 600px;
-	left: 335px;
+	left: 835px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -444,7 +437,7 @@
 	height: 200px;
 	position: absolute;
 	top: 396px;
-	left: 323px;
+	left: 823px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -456,8 +449,8 @@
 	width: 30px;
 	height: 198px;
 	position: absolute;
-	top: 705px;
-	left: 245px;
+	top: 703px;
+	left: 745px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -471,7 +464,7 @@
 	height: 35px;
 	position: absolute;
 	top: 765px;
-	left: 335px;
+	left: 835px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -484,7 +477,7 @@
 	height: 200px;
 	position: absolute;
 	top: 668px;
-	left: 95px;
+	left: 595px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -498,7 +491,7 @@
 	height: 250px;
 	position: absolute;
 	top: 570px;
-	left: 470px;
+	left: 970px;
 	border: 4px solid red;
 	border-right: solid red;
 	border-top: solid red;
@@ -512,8 +505,8 @@
 	height: 130px;
 	position: absolute;
 	top: 617px;
-	left: 680px;
-	border: 4px solid transparent;
+	left: 1180px;
+	border: 8px solid transparent;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-left: solid transparent;
@@ -525,9 +518,9 @@
 	width: 70px;
 	height: 200px;
 	position: absolute;
-	top: 530px;
-	left: 675px;
-	border: 4px solid red;
+	top: 529px;
+	left: 1175px;
+	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-left: solid transparent;
@@ -539,7 +532,7 @@
 	height: 200px;
 	position: absolute;
 	top: 690px;
-	left: 703px;
+	left: 1203px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -552,9 +545,9 @@
 	width: 50px;
 	height: 200px;
 	position: absolute;
-	top: 508px;
-	left: 615px;
-	border: 4px solid red;
+	top: 507px;
+	left: 1115px;
+	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-left: solid transparent;
@@ -567,7 +560,7 @@
 	height: 200px;
 	position: absolute;
 	top: 508px;
-	left: 645px;
+	left: 1145px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -581,12 +574,26 @@
 	height: 200px;
 	position: absolute;
 	top: 522px;
-	left: 675px;
+	left: 1175px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-left: solid transparent;
 	transform: rotate(450deg);
+}
+
+.boxg10{
+	background-color: transparent;
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	top: 580px;
+	left: 1027px;
+	border: 8px solid red;
+	border-right: solid transparent;
+	border-top: solid transparent;
+	border-left: solid transparent;
+	transform: rotate(-1171deg);
 }
 
 .boxg8{
@@ -595,7 +602,7 @@
 	height: 200px;
 	position: absolute;
 	top: 682px;
-	left: 647px;
+	left: 1147px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -608,9 +615,9 @@
 	width: 100px;
 	height: 200px;
 	position: absolute;
-	top: 657px;
-	left: 592px;
-	border: 4px solid red;
+	top: 655px;
+	left: 1092px;
+	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-left: solid transparent;
@@ -623,7 +630,7 @@
 	height: 200px;
 	position: absolute;
 	top: 920px;
-	left: 196px;
+	left: 696px;
 	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -636,7 +643,7 @@
 	height: 125px;
 	position: absolute;
 	top: 995px;
-	left: 231px;
+	left: 731px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -662,7 +669,7 @@
 	height: 200px;
 	position: absolute;
 	top: 919px;
-	left: 182px;
+	left: 682px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -675,7 +682,7 @@
 	height: 200px;
 	position: absolute;
 	top: 715px;
-	left: 179px;
+	left: 679px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -688,7 +695,7 @@
 	height: 200px;
 	position: absolute;
 	top: 865px;
-	left: 307px;
+	left: 807px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -702,7 +709,7 @@
 	height: 200px;
 	position: absolute;
 	top: 811px;
-	left: 254px;
+	left: 754px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -715,7 +722,7 @@
 	height: 198px;
 	position: absolute;
 	top: 914px;
-	left: 188px;
+	left: 688px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -729,7 +736,7 @@
 	height: 200px;
 	position: absolute;
 	top: 990px;
-	left: 326px;
+	left: 826px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -743,7 +750,7 @@
 	height: 200px;
 	position: absolute;
 	top: 919px;
-	left: 255px;
+	left: 755px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -756,7 +763,7 @@
 	height: 198px;
 	position: absolute;
 	top: 832px;
-	left: 265px;
+	left: 765px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -770,7 +777,7 @@
 	height: 198px;
 	position: absolute;
 	top: 1008px;
-	left: 265px;
+	left: 765px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
@@ -778,43 +785,13 @@
 	transform: rotate(-90deg);
 }
 
-.boxs1{
-	background-color: transparent;
-	width: 30px;
-	height: 60px;
-	position: absolute;
-	top: 890px;
-	left: 610px;
-	border: 4px solid red;
-	border-right: solid red;
-	border-top: solid red;
-	border-left: solid transparent;
-	border-radius: 0px 75px 75px 0px;
-	transform: rotate(-110deg);
-}
-
-.boxs2{
-	background-color: transparent;
-	width: 60px;
-	height: 130px;
-	position: absolute;
-	top: 997px;
-	left: 640px;
-	border: 4px solid red;
-	border-right: solid red;
-	border-top: solid red;
-	border-left: solid transparent;
-	border-radius: 0px 75px 75px 0px;
-	transform: rotate(360deg);
-}
-
 .boxs3{
 	background-color: transparent;
 	width: 50px;
 	height: 100px;
 	position: absolute;
-	top: 1025px;
-	left: 540px;
+	top: 1033px;
+	left: 1013px;
 	border: 4px solid red;
 	border-right: solid red;
 	border-top: solid red;
@@ -826,168 +803,255 @@
 .boxs4{
 	background-color: transparent;
 	width: 20px;
-	height: 90px;
+	height: 93px;
 	position: absolute;
-	top: 1030px;
-	left: 570px;
-	border: 4px solid red;
+	top: 1037px;
+	left: 1020px;
+	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
-	border-bottom: solid transparent;	
+	border-bottom: solid transparent;
+	transform: rotate(180deg);	
 }
 
 .boxs5{
-	background-color: white;
-	width: 20px;
-	height: 102px;
-	position: absolute;
-	top: 1015px;
-	left: 573px;
-	border: 4px solid transparent;
-	border-right: solid transparent;
-	border-top: solid transparent;
-	border-bottom: solid transparent;
-}
-
-.boxs6{
 	background-color: transparent;
 	width: 20px;
-	height: 40px;
+	height: 94px;
 	position: absolute;
-	top: 1030px;
-	left: 570px;
-	border: 4px solid red;
+	top: 1037px;
+	left: 1020px;
+	border: 8px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-bottom: solid transparent;
+	transform: rotate(180deg);
 }
 
 .boxs7{
 	background-color: transparent;
-	width: 105px;
-	height: 30px;
+	width: 107px;
+	height: 36px;
 	position: absolute;
-	top: 1096px;
-	left: 594px;
+	top: 1099px;
+	left: 1064px;
 	border: 4px solid red;
 	border-right: solid transparent;
 	border-top: solid transparent;
 	border-bottom: solid transparent;
 }
 
-.boxs8{
-	background-color: transparent;
-	width: 105px;
-	height: 70px;
-	position: absolute;
-	top: 1057px;
-	left: 639px;
-	border: 4px solid red;
-	border-right: solid transparent;
-	border-top: solid transparent;
-	border-bottom: solid transparent;
-}
-
-.boxs9{
-	background-color: transparent;
-	width: 105px;
-	height: 40px;
-	position: absolute;
-	top: 907px;
-	left: 640px;
-	border: 4px solid red;
-	border-right: solid transparent;
-	border-top: solid transparent;
-	border-bottom: solid transparent;
-}
-
-.boxs10{
-	background-color: transparent;
-	width: 20px;
-	height: 40px;
-	position: absolute;
-	top: 915px;
-	left: 631px;
-	border: 4px solid red;
-	border-right: solid red;
-	border-top: solid red;
-	border-left: solid transparent;
-	border-radius: 0px 75px 75px 0px;
-	transform: rotate(70deg);
-}
-
-.boxs11{
+.boxs15{
 	background-color: white;
-	width: 15px;
-	height: 15px;
-	position: absolute;
-	top: 934px;
-	left: 616px;
-	border: 4px solid transparent;
-	border-right: solid transparent;
-	border-top: solid transparent;
-	border-bottom: solid transparent;
-}
- 
-.boxs12{
-	background-color: white;
-	width: 50px;
-	height: 50px;
-	position: absolute;
-	top: 900px;
-	left: 581px;
-	border: 4px solid transparent;
-	border-right: solid transparent;
-	border-top: solid transparent;
-	border-bottom: solid transparent;
-}
-
-.boxs13{
-	background-color: transparent;
-	width: 40px;
-	height: 90px;
+	width: 30px;
+	height: 20px;
 	position: absolute;
 	top: 902px;
-	left: 600px;
+	left: 1100px;
+	border: 8px solid transparent;
+	border-right: solid transparent;
+	border-top: solid transparent;
+	border-bottom: solid transparent;
+}
+
+.stop1{
+	background-color: transparent;
+	width: 50px;
+	height: 100px;
+	position: absolute;
+	top: 864px;
+	left: 1095px;
 	border: 4px solid red;
 	border-right: solid red;
 	border-top: solid red;
 	border-left: solid transparent;
 	border-radius: 0px 100px 100px 0px;
-	transform: rotate(183deg);
+	transform: rotate(267deg);
 }
 
-.boxs14{
+.stop2{
+	background-color: transparent;
+	width: 70px;
+	height: 140px;
+	position: absolute;
+	top: 995px;
+	left: 1113px;
+	border: 4px solid red;
+	border-right: solid red;
+	border-top: solid red;
+	border-left: solid transparent;
+	border-radius: 0px 100px 100px 0px;
+	transform: rotate(1080deg);
+}
+
+.stop3{
+	background-color: transparent;
+	width: 55px;
+	height: 85px;
+	position: absolute;
+	top: 904px;
+	left: 1068px;
+	border: 4px solid red;
+	border-right: solid red;
+	border-top: solid red;
+	border-left: solid transparent;
+	border-radius: 0px 100px 100px 0px;
+	transform: rotate(185deg);
+}
+
+.stop4{
 	background-color: white;
 	width: 20px;
 	height: 20px;
 	position: absolute;
-	top: 878px;
-	left: 633px;
-	border: 4px solid transparent;
-	border-right: solid transparent;
+	top: 925px;
+	left: 1077px;
+	border: 4px solid red;
+	border-right: solid red;
 	border-top: solid transparent;
-	border-bottom: solid transparent;
-	transform: rotate(190deg);
+	border-left: solid transparent;	
 }
 
-.boxs15{
+.stop6{
 	background-color: white;
-	width: 20px;
-	height: 60px;
+	width: 24px;
+	height: 16px;
 	position: absolute;
-	top: 1020px;
-	left: 650px;
+	top: 935px;
+	left: 1073px;
 	border: 4px solid transparent;
 	border-right: solid transparent;
 	border-top: solid transparent;
+	border-left: solid transparent;	
+}
+
+.stop7{
+	background-color: transparent;
+	width: 30px;
+	height: 50px;
+	position: absolute;
+	top: 923px;
+	left: 1130.0px;
+	border: 4px solid red;
+	border-right: solid red;
+	border-top: solid red;
+	border-left: solid transparent;
+	border-radius: 0px 100px 100px 0px;
+	transform: rotate(450deg);
+}
+
+.stop8{
+	background-color: white;
+	width: 40px;
+	height: 50px;
+	position: absolute;
+	top: 924px;
+	left: 1100px;
+	border: 4px solid transparent;
+	border-right: solid transparent;
+	border-top: solid transparent;
+	border-left: solid transparent;	
+}
+
+.stop9{
+	background-color: transparent;
+	width: 40px;
+	height: 68px;
+	position: absolute;
+	top: 895px;
+	left: 1103px;
+	border: 4px solid red;
 	border-bottom: solid transparent;
-	transform: rotate(190deg);
+	border-top: solid transparent;
+	border-left: solid transparent;	
+}
+
+.boxs5{
+	background-color: transparent;
+	width: 20px;
+	height: 94px;
+	position: absolute;
+	top: 1041px;
+	left: 1113px;
+	border: 6px solid red;
+	border-right: solid transparent;
+	border-top: solid transparent;
+	border-bottom: solid transparent;
+	transform: rotate(360deg);
+}
+
+.stop10{
+	background color: white;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top:870px;
+	left: 1070px;
+	border: 4px solid transparent;
+	border-right: solid transparent;
+	border-left: solid transparent;
+	border-top: solid transparent; 
+}
+
+.stop11{
+	background-color: white;
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 907px;
+	left: 1087px;
+	border: 4px solid transparent;
+	border-right: solid transparent;
+	border-top: solid transparent;
+	border-left: solid transparent;	
+}
+
+.stop12{
+	background-color: white;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 908px;
+	left: 1073px;
+	border: 4px solid transparent;
+	border-right: solid transparent;
+	border-left: solid transparent;
+	border-radius: 100px 100px 100px 100px;
+	transform: rotate(450deg);
+}
+
+.stop13{
+	background color: white;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top:1010px;
+	left: 1055px;
+	border: 24px solid white;
+	border-right: solid white;
+	border-left: solid white;
+	border-top: solid white; 
+	transform: rotate(90deg);
+}
+
+.stop14{
+	background-color: white;
+	color: white;
+	width: 20px;
+	height: 24px;
+	position: absolute;
+	top: 1033px;
+	left: 1039px;
+	border: 6px solid white;
+	border-right: 4px solid red;
+	border-top: solid white;
+	border-bottom: solid transparent;
+	transform: rotate(360deg);
 }
 
 .name{
-	font-family: Arial;
-	font-size: 25px;
+	font-family: 'Lora', serif;
+	font-size: 20px;
 	position: absolute;
 	left: 35px;
 	line-height: 55px;
